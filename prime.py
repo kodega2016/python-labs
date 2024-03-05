@@ -1,3 +1,4 @@
+# wap to filter the prime numbers only from a list of numbers.
 def checkIfNumIsPrime(n):
     if n<=1:
         return False

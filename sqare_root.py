@@ -1,3 +1,5 @@
+# wap to calculate the root of the numbers using map funciton
+
 def calculateSqaure(n):
     return n**2
 

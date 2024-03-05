@@ -1,3 +1,6 @@
+# wap to to take two sets and perform sets operation(union,intersection and difference)
+
+
 set_a=set()
 set_b=set()
 
